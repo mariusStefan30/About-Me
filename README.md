@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marius Stefan.
 - 👀 I’m interested in Web Development FullStack Javascript.
-- 🌱 I’m currently learning Full Stack Web Development on Codecademy.
+- 🌱 I’m currently apply skills aquired by building Full Stack Web Apps.
 - 💞️ I’m looking to collaborate on javascript , react.js, node.js projects.
 - 📫 How to reach me: stefanmariusadrian@yahoo.com
 
